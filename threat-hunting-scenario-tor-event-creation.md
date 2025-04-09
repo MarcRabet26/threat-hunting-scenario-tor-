@@ -73,8 +73,8 @@ DeviceFileEvents
 ---
 
 ## Created By:
-- **Author Name**: Mudenda H
-- **Author Contact**: https://www.linkedin.com/in/mudenda-h-7a5a75177/
+- **Author Name**: Marc R
+- **Author Contact**: https://www.linkedin.com/in/marc-rabet-531b0635a/
 - **Date**: August 31, 2024
 
 ## Validated By:
@@ -92,4 +92,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `September  6, 2024`  | `Mudenda H`   
+| 1.0         | Initial draft                  | `September  6, 2024`  | `Marc R`   
